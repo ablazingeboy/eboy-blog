@@ -29,11 +29,13 @@ copyright = "© ablazingeboy {year}"
   # instagram = "https://instagram.com/<your handle>"
   # linkedin = "<link to your profile>"
   # youtube = "https://www.youtube.com/channel/<your channel>"
+  ethereum = "https://www.youtube.com/watch?v=Tt7bzxurJ1I"
+  bitcoin = "https://www.youtube.com/watch?v=Tt7bzxurJ1I"
   
   # Titles for your icons (shown as tooltips), and also their display order.
   # Currently, these icons are supported: 
   #   "Twitter", "GitHub", "Email", "Mastodon", "Facebook", "GitLab", "Instagram", "LinkedIn", "YouTube"
-  iconOrder = ["Github", "Email", "Twitter"]
+  iconOrder = ["Github", "Email", "Twitter", "Ethereum", "Bitcoin"]
 
   # Metadata for Twitter cards, defaults to params.twitter
   # twitterSite = "@<your handle>"
