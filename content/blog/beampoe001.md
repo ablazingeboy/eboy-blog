@@ -4,7 +4,7 @@ date: 2021-11-28T23:00:15-05:00
 slug: "beampoe001"
 description: "A coffee review that I'm completely unqualified to write. How quaint."
 keywords: []
-draft: true
+draft: false
 tags: ["beampoe", "coffee"]
 math: false
 toc: false
