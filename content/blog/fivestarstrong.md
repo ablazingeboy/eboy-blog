@@ -1,11 +1,11 @@
 ---
-title: "Beverage Enjoyment at my Place of Employment: Five Star Strong Cold Brew"
+title: "Coffee Review: Five Star Strong Cold Brew"
 date: 2021-11-28T23:00:15-05:00
-slug: "beampoe001"
+slug: "fivestarstrong"
 description: "A coffee review that I'm completely unqualified to write. How quaint."
 keywords: []
 draft: false
-tags: ["beampoe", "coffee"]
+tags: ["coffee", "review"]
 math: false
 toc: false
 ---
