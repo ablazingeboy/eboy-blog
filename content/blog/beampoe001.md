@@ -16,7 +16,7 @@ I've decided to write a coffee review. I have zero qualification to do so, but t
 
 This is going to be the first of a series of reviews on the odd coffee beverages I consume to summon enough energy to get through the workday. The subject of this review is **Five Star Strong Vanilla Cold Brew**. 
 
-![https://cdn.discordapp.com/attachments/812078749222436924/914735716372713532/IMG_7560.jpg](Resources/IMG_7560.jpg)
+![](Resources/IMG_7560.jpg)
 
 I picked this up from my local grocery store this morning, after seeing it around for a while. It's main selling point seems to be that the proceeds of their business go towards helping veterans of the armed forces, which is definitely a great cause.
 
