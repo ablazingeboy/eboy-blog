@@ -42,7 +42,7 @@ Thus, reasonably, **it was quite a bombshell when Vilhu decided to very undemocr
 
 
 
-The team was very quick to respond, debating many of the claims in Vilhu's message, with Cheese_Addict in particular providing a surpriringly well written response. Up until then, while Vilhu was making an ultimately undemocratic decision, and being a bit stagnant about responding, at least he was responding, and doing so respectfully, even admitting that it was unfair to not so much as ask for our opinions first. **After this, however, relations went downhill.**
+The team was very quick to respond, debating many of the claims in Vilhu's message, with Cheese_Addict in particular providing a surprisingly well written response. Up until then, while Vilhu was making an ultimately undemocratic decision, and being a bit stagnant about responding, at least he was responding, and doing so respectfully, even admitting that it was unfair to not so much as ask for our opinions first. **After this, however, relations went downhill.**
 
 
 
@@ -62,7 +62,7 @@ This was the first concrete admission of the fact that **our opinions on the mat
 
 
 
-After a period of radio silence, tensions became worse with a discussion where I personally tried to reason with Vilhu about how his "no response is also a response" (that's a direct quite by the way) policy was not reasonable as a leader of a community, and that when making major changes, a leader needs to be available to facilitate and discuss said change. That led to a reply that I felt was a major tipping point in how I perceived the whole situation:
+After a period of radio silence, tensions became worse with a discussion where I personally tried to reason with Vilhu about how his "no response is also a response" (that's a direct quote by the way) policy was not reasonable as a leader of a community, and that when making major changes, a leader needs to be available to facilitate and discuss said change. That led to a reply that I felt was a major tipping point in how I perceived the whole situation:
 
 
 
