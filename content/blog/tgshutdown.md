@@ -28,7 +28,7 @@ To gain some context into just how much of a change this whole situation has bee
 
 
 
-With very few exceptions, **everything was voted on**. Even minor changes, or stuff that only related to one or a few mods (e.g. making an announcement for a racing event), would be posted in #tg-proposals for other mods to react to and provide feedback on. This has been a really important part of how we operate as a team. **We also emphasized being fair with bans and punishments**, recognizing that occasionally the rules need to be bent to provide leniency or deal with an odd situation, but generally doing our best to only punish people that broke rules, and holding the entire team to the same standard when moderating. These two factors were something I've always been very proud of, and something that set us apart from other minecraft servers. Thus, seeing the steady collapse of those ideals has been frankly heartbreaking. **If you're reading this, it means that I have become so disillusioned with the leadership of this community that I no longer have any desire to participate even as a user.** With this context in mind, I would like to now go over the events of the past two-ish months.
+With very few exceptions, **everything was voted on**. Even minor changes, or stuff that only related to one or a few mods (e.g. making an announcement for a racing event), would be posted in #tg-proposals for other mods to react to and provide feedback on. This has been a really important part of how we operate as a team. **We also emphasized being fair with bans and punishments**, recognizing that occasionally the rules need to be bent to provide leniency or deal with an odd situation, but generally doing our best to only punish people that broke rules, and holding the entire team to the same standard when moderating. These two factors were something I've always been very proud of, and something that set us apart from other minecraft servers. Thus, seeing the steady collapse of those ideals has been frankly heartbreaking. **If you're reading this, it means that I have become so disillusioned with the leadership of this community that I'm frankly willing to risk the ban to post this.** With this context in mind, I would like to now go over the events of the past two-ish months.
 
 
 
@@ -54,7 +54,7 @@ Things started to get sourer after this, with his next major response containing
 
 
 
-> ps. **If I wanted input from the team, I'd have asked for it.** I might be an asshole, but at least I'm giving you guys the opportunity to discuss it now. **Which I didn't really do when i deleted debates, voice, or memes.**
+> *ps. **If I wanted input from the team, I'd have asked for it.** I might be an asshole, but at least I'm giving you guys the opportunity to discuss it now. **Which I didn't really do when i deleted debates, voice, or memes.***
 
 
 
@@ -66,7 +66,7 @@ After a period of radio silence, tensions became worse with a discussion where I
 
 
 
-> if i decide something, let you guys know about it and take feedback on it, acknowledge the feedback*, there's zero need for me to comment on passive aggressive replies. **i do not want your guidance on how to lead this community**. if i want it, i'll ask for it. thank you very much and **never fucking ever do that again**.
+> *if i decide something, let you guys know about it and take feedback on it, acknowledge the feedback\*, there's zero need for me to comment on passive aggressive replies. **i do not want your guidance on how to lead this community**. if i want it, i'll ask for it. thank you very much and **never fucking ever do that again**.*
 
 *\*sidenote: I disagree with the statement that he took any of our feedback, as I do not believe skimming over feedback and then dismissing it without any reasoning given is not taking feedback*
 
