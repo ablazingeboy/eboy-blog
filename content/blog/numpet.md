@@ -4,10 +4,10 @@ date: 2022-01-05T14:37:20-05:00
 slug: "numpet"
 description: "A simple 4-button Arduino-based keypad for data entry"
 keywords: []
-draft: true
+draft: false
 tags: ["projects", "electronics", "arduino"]
 math: false
-toc: false
+toc: true
 ---
 
 ## Description
