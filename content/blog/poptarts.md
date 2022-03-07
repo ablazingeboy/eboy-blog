@@ -4,7 +4,7 @@ date: 2022-03-06T22:00:00-05:00
 slug: "poptarts2021"
 description: "The chronicle of a weird tradition/habit/joke formed in the midst of quarantine and virtual school"
 keywords: []
-draft: true
+draft: false
 tags: ["pop-tarts", "review", "teenagersgaming"]
 math: false
 toc: true
