@@ -2,9 +2,9 @@
 theme = "hugo-theme-codex" 
 
 # Override these settings with your own
-title = "I Need More Coffee"
+title = "ABlazingEBoy's Archive"
 languageCode = "en-us"
-baseURL = "https://ineedmore.coffee/"
+baseURL = "https://ablazingeboy.github.io/"
 copyright = "© ablazingeboy {year}"
 
 # Add your Disqus shortname here.
