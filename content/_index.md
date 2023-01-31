@@ -1,5 +1,5 @@
 ---
-heading: "I Need More Coffee"
+heading: "ABlazingEboy's Archive"
 subheading: "Assorted musings from a random e-boy"
 handle: "ablazingeboy"
 ---
